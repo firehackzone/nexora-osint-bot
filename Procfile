@@ -1,1 +1,1 @@
-worker: python osint.py
+worker: python app.py
